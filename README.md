@@ -15,3 +15,6 @@ Some fourth final updated code
 
 #My Fifth Edit
 Branching and Merging Demo
+
+#My Sixth Edit
+Branching and Merging Second Demo Autometic
