@@ -21,3 +21,6 @@ Branching and Merging Second Demo Autometic
 
 #My Seventh Edit
 Rebasing demo in main branch
+
+#My Eight Edit
+Rebasing demo in myfeature branch
