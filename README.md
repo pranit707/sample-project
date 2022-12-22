@@ -18,3 +18,6 @@ Branching and Merging Demo
 
 #My Sixth Edit
 Branching and Merging Second Demo Autometic
+
+#My Seventh Edit
+Rebasing demo in main branch
