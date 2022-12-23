@@ -24,3 +24,6 @@ Rebasing demo in main branch
 
 #My Eight Edit
 Rebasing demo in myfeature branch
+
+#My Ninth Edit
+Data for stashing demo
