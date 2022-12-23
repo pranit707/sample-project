@@ -1,1 +1,5 @@
 Branching and Merging New File
+
+Multi stash demo 2
+
+Stashing demo in branch
